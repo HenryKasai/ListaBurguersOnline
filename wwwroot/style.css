@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient(180deg, rgb(201, 32, 32), rgb(124, 22, 22));
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+div {
+    background-color: rgba(105, 19, 19, 0.596);
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+table {
+    width: 1000px;
+    font-size: 32px;
+    border: solid white;
+}
+
+tbody {
+    text-align: center;
+}
+
